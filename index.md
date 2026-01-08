@@ -18,7 +18,7 @@ Hands-on experience through labs, structured analysis, and clear documentation.
 - Security documentation & reporting
 
 ## Portfolio
-- Phishing Email Analysis *(coming next)*
+- - [Phishing Email Analysis](projects/phishing-email-analysis.md)
 - SIEM Log Analysis *(coming next)*
 - Linux Security Fundamentals *(coming next)*
 
