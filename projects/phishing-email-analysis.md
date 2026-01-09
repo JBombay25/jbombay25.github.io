@@ -13,6 +13,12 @@ assess risk, and recommend appropriate response actions.
 A user reported an email claiming urgent account verification was required.
 The message included a hyperlink directing the user to log in immediately.
 
+## Artifacts Reviewed
+- Email headers (sender, return-path, SPF/DKIM results)
+- Embedded hyperlink URL
+- Email body content and formatting
+- Reported user context
+
 ## Analysis Performed
 - Reviewed sender address and display name
 - Evaluated email body language for social engineering
