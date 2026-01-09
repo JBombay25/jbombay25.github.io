@@ -49,3 +49,11 @@ The message included a hyperlink directing the user to log in immediately.
 - SOC-style reasoning
 - Communication for technical and non-technical audiences
 
+## Tools & Techniques
+
+- Email header analysis
+- URL inspection and reputation analysis
+- Social engineering pattern recognition
+- Risk-based incident classification
+- Written incident reporting
+
