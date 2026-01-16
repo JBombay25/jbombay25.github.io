@@ -19,7 +19,7 @@ Hands-on experience through labs, structured analysis, and clear documentation.
 
 ## Portfolio
 - - [Phishing Email Analysis](projects/phishing-email-analysis.md)
-- SIEM Log Analysis *(coming next)*
+- - [SIEM Log Analysis](/projects/siem-log-analysis)
 - Linux Security Fundamentals *(coming next)*
 
 [LinkedIn](https://www.linkedin.com/)
