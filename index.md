@@ -18,8 +18,8 @@ Hands-on experience through labs, structured analysis, and clear documentation.
 - Security documentation & reporting
 
 ## Portfolio
--- Phishing Email Analysis – Incident triage & remediation
-- SIEM Log Analysis – Authentication anomaly investigation
+- - Phishing Email Analysis – Incident triage & remediation
+- - SIEM Log Analysis – Authentication anomaly investigation
 - - Linux Security Fundamentals *(coming next)*
 
 [LinkedIn](https://www.linkedin.com/)
